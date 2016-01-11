@@ -1,0 +1,3 @@
+[submodule "rootfs_bbb"]
+	path = rootfs_bbb
+	url = https://github.com/toxxin/rootfs_bbb.git
